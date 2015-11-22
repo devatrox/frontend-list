@@ -16,6 +16,7 @@ Libraries, Frameworks and stuff for Frontend Devs
 
 ## Misc
 
+- [mo js](http://mojs.io/): JS Animation Library
 - [enquire.js](http://wicky.nillia.ms/enquire.js/): Media Queries in JavaScript
 - [Chart.js](http://www.chartjs.org/)
 - [Moment.js](http://momentjs.com/): Parse, validate, manipulate and display dates
