@@ -24,6 +24,7 @@ Libraries, Frameworks and stuff for Frontend Devs
 - [sanitize.css](https://10up.github.io/sanitize.css/): Successor to Normalize.css
 - [clipboard.js](https://github.com/zenorocha/clipboard.js): Copy to clipboard without Flash
 - [cheet.js](https://github.com/namuol/cheet.js): Implement Easter Eggs
+- [smartcrop.js](https://github.com/jwagner/smartcrop.js): Content aware image cropping
 
 ## Testing
 
