@@ -13,6 +13,7 @@ Libraries, Frameworks and stuff for Frontend Devs
 - [Bootstrap Multiselect](http://davidstutz.github.io/bootstrap-multiselect/)
 - [bootstrap-wysihtml5](http://jhollingworth.github.io/bootstrap-wysihtml5/): Bootstrap WYSIWYG editor
 - [Bootstrap 3 Datepicker](http://eonasdan.github.io/bootstrap-datetimepicker/)
+- [selectize.js](http://brianreavis.github.io/selectize.js/): Autocompletion
 
 ## Misc
 
